@@ -1,0 +1,11 @@
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\bin\Debug\胡永靖.exe
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\bin\Debug\胡永靖.pdb
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.csproj.AssemblyReference.cache
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.frmMain.resources
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.Properties.Resources.resources
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.csproj.GenerateResource.cache
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.csproj.CoreCompileInputs.cache
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.exe
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.pdb
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.frmStretch.resources
+D:\作业\作业\大三\下\cs\实验\10\2021235010114胡永靖\胡永靖\胡永靖\obj\Debug\胡永靖.frmAdjust.resources
